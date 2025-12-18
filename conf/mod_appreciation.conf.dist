@@ -31,7 +31,7 @@ Appreciation.LevelBoost.Enabled = 1
 # Default: 60
 #
 
-Appreciation.LevelBoost.TargetLevel = 80
+Appreciation.LevelBoost.TargetLevel = 70
 
 #################################
 
